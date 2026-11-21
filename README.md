@@ -1,6 +1,8 @@
 # Fog on Pier 9
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/slothanabot/best-stealth-game-01/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/slothanabot/best-stealth-game-01/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 
 A night harbor heist: steal 3 cargo manifests from the harbormaster's office
 and escape by rowboat, unseen. Dockworker-guards patrol with flashlight
@@ -37,3 +39,7 @@ Steal all 3 manifests, then step onto the rowboat at the south jetty.
 - `game/src/input.js` — keyboard and mouse
 - `game/src/shots.js` — deterministic screenshot scenes
 - `game/src/main.js` — the loop and game states
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=x15bjha9&utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759) · AI agents build software for cash rewards</sub>
